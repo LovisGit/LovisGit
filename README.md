@@ -1,9 +1,9 @@
 ### Hi, I'm Lovis 👋
 
-CS student at Heidelberg University & IT Guy based in Darmstadt. I build tools mainly with Python
+CS student at TU Darmstadt. I build tools mainly with Python
 
 **What I'm up to:**
-* 🎓 Writing my Bachelor's thesis on **Temporal Reasoning in LLMs**.
+* 🎓 Persuing my Master's degree at TU Darmstadt with specialization AI
 * 💻 Working on Uni projects like "Blurred Boundaries" and other unpublished projects.
 
 **Tech Stack (Ordered in descending experience):**
